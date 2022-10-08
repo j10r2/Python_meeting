@@ -4,11 +4,11 @@
 import random
 
 list = []
-for i in range (random.randint(6, 14)):
+for i in range (random.randint(6, 12)):
     list.append(random.randint(0, 15))
 
 new_list = []
-for i in range (len(list)//2):
+for i in range (int(round(len(list)/2, 0))):
     new_list.append(list[i] * list[-(i+1)])
 
 print(list, '\n', new_list)
