@@ -1,0 +1,1 @@
+3x<sup>8</sup>+3x<sup>6</sup>+5x<sup>5</sup>+1x<sup>4</sup>+4x<sup>3</sup>+4x<sup>2</sup>+1x-9 = 0

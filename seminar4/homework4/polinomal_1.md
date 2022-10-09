@@ -1,0 +1,1 @@
+4x<sup>6</sup>+1x<sup>5</sup>+2x<sup>4</sup>+4x<sup>2</sup>+4x-5 = 0
