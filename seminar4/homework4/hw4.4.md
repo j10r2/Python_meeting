@@ -1,0 +1,1 @@
+7x<sup>6</sup>-10x<sup>5</sup>+3x<sup>4</sup>+10x<sup>3</sup>-4x<sup>2</sup>+6 = 0
