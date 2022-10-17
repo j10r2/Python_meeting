@@ -1,5 +1,12 @@
+# Напишите программу, которая принимает на вход число N и выдает набор произведений чисел от 1 до N.
 n = int(input('введите натуральное число: '))
-list = [1]
-for i in range (1, n):
-    list.append(list[i-1]*(i+1))
-print(list)
+# list = [1]
+# for i in range (1, n):
+#     list.append(list[i-1]*(i+1))
+# print(list)
+
+
+
+# Задайте список из n чисел последовательности (1+ (1/n))^n и выведите на экран их сумму
+
+print(sum(list(map(lambda i: (1+(1/n))**n, range(n)))))
